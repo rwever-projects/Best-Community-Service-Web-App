@@ -4,7 +4,7 @@
 #### Author: Rudi Wever
 #### Languages: HTML5, CSS, JavaScript, jQuery
 ##### *This prototype will run as an example/mockup, so backend data is NOT implemented (for example, no files or database to store actual data are used)*
-http://www.public.asu.edu/~rwever/weather/
+http://www.public.asu.edu/~rwever/BestCommunityService/index.html
 
 Project scenario described below screenshots.
 
