@@ -4,6 +4,34 @@
 #### Author: Rudi Wever
 #### Languages: HTML5, CSS, JavaScript, jQuery
 ##### *This prototype will run as an example/mockup, so backend data is NOT implemented (for example, no files or database to store actual data are used)*
+
+*********************************************
+##### *Make sure to have JavaScript enabled to view*
+*********************************************
+
+*Confirmed operating on the following browsers:*
+- *Firefox: Version 50.1.0*
+- *Chrome: Version 56.0.2924.87*
+
+*To access app content please either:*
+- *Use registration option and provide:*  
+    *1. First Name*  
+    *2. Last Name*  
+    *3. Email*  
+    *4. Any Password of your choice*  
+    *5. Matching password*  
+    *6. Accept Terms of Service (auto-checked for acceptance)*
+
+##### *OR,*
+- *Use login option and provide:*  
+    *1. Email*  
+     *2. Any Password of your choice*
+
+*To access ADMIN app content please:*
+- *Use login option and provide:*  
+     *1. Email = "admin@bcs.<i></i>org"*
+     *2. Password = "123"*
+
 http://www.public.asu.edu/~rwever/BestCommunityService/index.html
 
 Project scenario described below screenshots.
