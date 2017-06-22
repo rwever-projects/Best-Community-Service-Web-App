@@ -8,5 +8,5 @@ http://www.public.asu.edu/~rwever/weather/
 
 
 
-![Best Community Service Mainpage screenshot](https://github.com/rwever-projects/Weather-App/blob/master/weatherAppScreenshot.pn)
+![Best Community Service Mainpage screenshot](https://github.com/rwever-projects/Best-Community-Service-Web-App/blob/master/BCS_Mainpage_Screenshot.png)
 The objective of this project is to design and build a prototype for an interactive Web application for a community service named “Best Community Service”, provided by a non-profit organization
